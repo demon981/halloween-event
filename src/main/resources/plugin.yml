@@ -1,0 +1,4 @@
+name: dropmc_halloween
+version: '${project.version}'
+main: pl.dropmc.halloween.Main
+api-version: '1.20'
